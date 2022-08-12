@@ -43,6 +43,15 @@ flex-direction:column;
 justify-content:space-between;
 cursor:pointer;
 transition:transform 200ms ease-in;
+position: relative;
+display: flex;
+flex-direction: column;
+min-width: 0;
+word-wrap: break-word;
+background-color: #f8f8f8;
+background-clip: initial;
+border: 1px solid #dedede;
+border-radius: 0.1rem;
 
 &__image{
 height:12rem;

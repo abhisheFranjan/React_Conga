@@ -29,6 +29,7 @@ import './Navigation/Navigation';
 import './Header/Header';
 // Custom Product component
 import './Product/Product';
+import './Category/Category';
 import './Footer/Footer';
 
 import {MapTo} from '@adobe/aem-react-editable-components';
